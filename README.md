@@ -55,8 +55,9 @@ Navigation from the home page to the other three pages is accomplished via the p
 On every other page, a hexagonal hamburger menu (mobile) or nav bar (tablet and desktop) is provided to enable access back to the home page, or to directly to any of the three other main pages (About Me, Blog, or Contact).
 
 #### Navigation on Mobile:
-<figcaption align="center"><b>Navigation hamburger menu on mobile</b></figcaption>
+
 ![Navigation on Mobile](assets/screenshots/navigation/mobile-nav.png)
+<figcaption align="center"><b>Navigation hamburger menu on mobile</b></figcaption>
 
 On mobile, a fixed position floating hamburger menu is provided, which when touched opens a drawer menu containing links to the main 4 pages.  The menu will close again when the X button is touched, or when the user touches the lower section of the screen outside the floating menu.
 
